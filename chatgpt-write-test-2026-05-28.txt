@@ -1,0 +1,4 @@
+ChatGPT GitHub write test
+
+Created by ChatGPT on 2026-05-28.
+Purpose: verify that GitHub connector write permission works.
